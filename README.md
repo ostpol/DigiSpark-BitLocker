@@ -11,4 +11,4 @@ Tired of typing your BitLocker PIN? Use a [DigiSpark](http://digistump.com/produ
 ## Disclaimer
 
 > [!IMPORTANT]
-> Avoid using this in production systems, particularly in corporate environments, for security purposes. Your CSO will thank you for it.
+> Avoid using this in production systems, particularly in corporate environments, for security purposes. Your CISO will thank you for it.
